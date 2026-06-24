@@ -5,7 +5,7 @@ import os
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
-sheet_url = "https://docs.google.com/spreadsheets/d/1q25b6xIlhMAALiGYA_YYR9rcP2vQ6XNtvQTlqGoN_ic/export?format=csv&gid=0"
+sheet_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQoXZndMPqOhS__q9cIaw3i9wR0ZsG8LPKQVMbUCdD3XZQgEJNtsV-xabzLl49zog21myaAWrD3fbub/pubhtml"
 
 df = pd.read_csv(sheet_url)
 
