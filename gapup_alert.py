@@ -11,7 +11,7 @@ CHAT_ID = os.environ["CHAT_ID"]
 # -----------------------------
 # Google Sheet Published CSV URL
 # -----------------------------
-sheet_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQoXZndMPqOhS__q9claw3i9wR0ZsG8LPKQVMbUCdD3XZQgEJNtsV-xabzLI49zog21myaAWrD3fbub/pub?output=csv"
+sheet_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQoXZndMPqOhS__q9cIaw3i9wR0ZsG8LPKQVMbUCdD3XZQgEJNtsV-xabzLl49zog21myaAWrD3fbub/pub?output=csv"
 
 print("Reading Google Sheet...")
 
